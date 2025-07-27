@@ -36,7 +36,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki **basit a
 
 1.  **Repoyu Klonla:** Bilgisayarına projenin güncel bir kopyasını indir.
     ```bash
-    git clone [https://github.com/bushranovaaa/dijital_guvenlik_app.git](https://github.com/bushranovaaa/dijital_guvenlik_app.git)
+    git clone https://github.com/busrakubra-dev/dijital_guvenlik_app.git
     ```
 2.  **Proje Dizinine Gir:** İndirdiğin klasörün içine geçiş yap.
     ```bash
@@ -92,8 +92,8 @@ Bu projenin daha da büyümesi ve gelişmesi için **senin gibi yetenekli geliş
 
 Aklına takılan bir şey mi var? Bir öneri mi sunmak istiyorsun? Yoksa sadece merhaba demek mi? **Çekinme, bana ulaşmaktan asla çekinme!** Dijital güvenlik yolculuğunda birlikte ilerleyelim.
 
-* **Bushra Nova (Email):** kubra.krt1980@gmail.com
-* **GitHub:** [github.com/bushranovaaaa](https://github.com/bushranovaaaa)
+* **Bushra Kübra (Email):** kubra.krt1980@gmail.com
+* **GitHub:** [github.com/busrakubra-dev](https://github.com/busrakubra-dev)
 
 ---
 
