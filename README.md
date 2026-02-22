@@ -36,8 +36,8 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki **basit a
 
 1.  **Repoyu Klonla:** Bilgisayarına projenin güncel bir kopyasını indir.
     ```bash
-    git clone https://github.com/busrakubra-dev/dijital_guvenlik_app.git
-    ```
+    git clone https://github.com/busrabuseecodes/dijital_guvenlik_app.git
+```
 2.  **Proje Dizinine Gir:** İndirdiğin klasörün içine geçiş yap.
     ```bash
     cd dijital_guvenlik_app
@@ -100,3 +100,4 @@ Aklına takılan bir şey mi var? Bir öneri mi sunmak istiyorsun? Yoksa sadece 
 ## Lisans ✅
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır - daha fazla bilgi için `LICENSE` dosyasına bakın. **Kendi dijital güvenliğinin kontrolünü eline al ve özgür yazılımın tadını çıkar!**
+
