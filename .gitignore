@@ -1,24 +1,22 @@
-Flutter & Dart için .gitignore
+# Flutter & Dart için .gitignore
 
-Dart tarafından oluşturulan dosyalar
+# Dart tarafından oluşturulan dosyalar
 .dart_tool/
-.packages
 build/
-pubspec.lock
 
-Flutter tarafından oluşturulan dosyalar
+# Flutter tarafından oluşturulan dosyalar
 .flutter-plugins
 .flutter-plugins-dependencies
 .flutter-versions
 .metadata
 
-Android build klasörü
+# Android build klasörü
 android/app/debug.keystore
 android/.gradle/
 android/app/build/
 android/build/
 
-iOS build klasörü
+# iOS build klasörü
 ios/.symlinks/
 ios/Pods/
 ios/Flutter/Flutter.podspec
@@ -27,7 +25,7 @@ ios/Runner.xcworkspace/
 ios/Flutter/App.framework
 ios/Flutter/Flutter.framework
 
-Xcode ilgili dosyalar
+# Xcode ilgili dosyalar
 *.mode1
 *.mode1v3
 *.mode2v3
@@ -35,36 +33,28 @@ Xcode ilgili dosyalar
 *.xcworkspace/
 xcuserdata/
 
-Web build klasörü
-web/
-
-Linux, macOS, Windows build klasörleri
-linux/
-macos/
-windows/
-
-Test sonuçları ve raporlar
+# Test sonuçları ve raporlar
 test-results/
 coverage/
 *.lcov
 
-Kişisel ortam değişkenleri
+# Kişisel ortam değişkenleri
 .env*
 .env.local
 .env.development
 .env.production
 
-IDE dosyaları
+# IDE dosyaları
 .idea/
 *.iml
 *.ipr
 *.iws
 
-Log dosyaları
+# Log dosyaları
 *.log
 *.tmp
 *.swp
 
-Diğer gereksiz dosyalar
+# Diğer gereksiz dosyalar
 *.DS_Store
 *.vscode/
